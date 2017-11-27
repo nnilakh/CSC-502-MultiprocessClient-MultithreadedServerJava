@@ -1,4 +1,4 @@
-# CSC-502 - MultiprocessClient communicating with MultithreadedServerJava
+# CSC-502 - Multi-Process Client communicating with Multi-Threaded Server Java
 CSC-502 Final Project
 
 
